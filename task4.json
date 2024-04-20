@@ -1,0 +1,242 @@
+[
+{
+    "tournamentID": 2,
+    "tournamentName": "Midwest Masters",
+    "tournamentDate": "2020-05-15",
+    "tournamentLocation": "Chicago, IL",
+    "decks": [
+        {
+            "deckID": "1",
+            "deckName": "Goblin Horde",
+            "archetype": "Aggro",
+            "player": {
+                "playerID": "3",
+                "playerName": "Sarah Lee"
+            },
+            "cards": [
+                {
+                    "cardID": "4",
+                    "name": "Lightning Bolt",
+                    "price": "6"
+                },
+                {
+                    "cardID": "1",
+                    "name": "Brainstorm",
+                    "price": "29"
+                },
+                {
+                    "cardID": "7",
+                    "name": "Shivan Dragon",
+                    "price": "14"
+                },
+                {
+                    "cardID": "9",
+                    "name": "Ledger Shredder",
+                    "price": "49"
+                },
+                {
+                    "cardID": "10",
+                    "name": "Opt",
+                    "price": "72"
+                }
+            ]
+        },
+        {
+            "deckID": "2",
+            "deckName": "Control's Embrace",
+            "archetype": "Control",
+            "player": {
+                "playerID": "4",
+                "playerName": "Mike Smith"
+            },
+            "cards": [
+                {
+                    "cardID": "2",
+                    "name": "Black Lotus",
+                    "price": "5"
+                },
+                {
+                    "cardID": "5",
+                    "name": "Ephemerate",
+                    "price": "91"
+                },
+                {
+                    "cardID": "3",
+                    "name": "Thoughtsieze",
+                    "price": "27"
+                },
+                {
+                    "cardID": "6",
+                    "name": "Serra Angel",
+                    "price": "49"
+                },
+                {
+                    "cardID": "8",
+                    "name": "Sheoldred",
+                    "price": "6"
+                }
+            ]
+        }
+    ]
+},
+{
+    "tournamentID": 3,
+    "tournamentName": "Southern Showdown",
+    "tournamentDate": "2021-08-20",
+    "tournamentLocation": "Atlanta, GA",
+    "decks": [
+        {
+            "deckID": "1",
+            "deckName": "Vampire Night",
+            "archetype": "Aggro",
+            "player": {
+                "playerID": "5",
+                "playerName": "Emily Davis"
+            },
+            "cards": [
+                {
+                    "cardID": "4",
+                    "name": "Lightning Bolt",
+                    "price": "6"
+                },
+                {
+                    "cardID": "2",
+                    "name": "Black Lotus",
+                    "price": "5"
+                },
+                {
+                    "cardID": "7",
+                    "name": "Shivan Dragon",
+                    "price": "14"
+                },
+                {
+                    "cardID": "10",
+                    "name": "Opt",
+                    "price": "72"
+                },
+                {
+                    "cardID": "9",
+                    "name": "Ledger Shredder",
+                    "price": "49"
+                }
+            ]
+        },
+        {
+            "deckID": "2",
+            "deckName": "Elemental Mastery",
+            "archetype": "Control",
+            "player": {
+                "playerID": "6",
+                "playerName": "Alex Green"
+            },
+            "cards": [
+                {
+                    "cardID": "3",
+                    "name": "Thoughtsieze",
+                    "price": "27"
+                },
+                {
+                    "cardID": "5",
+                    "name": "Ephemerate",
+                    "price": "91"
+                },
+                {
+                    "cardID": "6",
+                    "name": "Serra Angel",
+                    "price": "49"
+                },
+                {
+                    "cardID": "8",
+                    "name": "Sheoldred",
+                    "price": "6"
+                },
+                {
+                    "cardID": "10",
+                    "name": "Opt",
+                    "price": "72"
+                }
+            ]
+        }
+    ]
+},
+{
+    "tournamentID": 4,
+    "tournamentName": "Western Wizards",
+    "tournamentDate": "2022-03-10",
+    "tournamentLocation": "Los Angeles, CA",
+    "decks": [
+        {
+            "deckID": "1",
+            "deckName": "Dragon's Lair",
+            "archetype": "Aggro",
+            "player": {
+                "playerID": "7",
+                "playerName": "Chris Johnson"
+            },
+            "cards": [
+                {
+                    "cardID": "1",
+                    "name": "Brainstorm",
+                    "price": "29"
+                },
+                {
+                    "cardID": "2",
+                    "name": "Black Lotus",
+                    "price": "5"
+                },
+                {
+                    "cardID": "6",
+                    "name": "Serra Angel",
+                    "price": "49"
+                },
+                {
+                    "cardID": "9",
+                    "name": "Ledger Shredder",
+                    "price": "49"
+                },
+                {
+                    "cardID": "10",
+                    "name": "Opt",
+                    "price": "72"
+                }
+            ]
+        },
+        {
+            "deckID": "2",
+            "deckName": "Mystic Control",
+            "archetype": "Control",
+            "player": {
+                "playerID": "8",
+                "playerName": "Rachel White"
+            },
+            "cards": [
+                {
+                    "cardID": "3",
+                    "name": "Thoughtsieze",
+                    "price": "27"
+                },
+                {
+                    "cardID": "5",
+                    "name": "Ephemerate",
+                    "price": "91"
+                },
+                {
+                    "cardID": "7",
+                    "name": "Shivan Dragon",
+                    "price": "14"
+                },
+                {
+                    "cardID": "8",
+                    "name": "Sheoldred",
+                    "price": "6"
+                },
+                {
+                    "cardID": "10",
+                    "name": "Opt",
+                    "price": "72"
+                }
+            ]
+        }
+    ]
+}
+]

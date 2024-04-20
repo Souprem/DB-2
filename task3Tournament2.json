@@ -1,0 +1,82 @@
+{
+    "tournamentID": 1,
+    "tournamentName": "MXP San Fransisco",
+    "tournamentDate": "2022-11-01",
+    "tournamentLocation": "San Fransisco, CA",
+    "decks": [
+        {
+            "deckID": "3",
+            "deckName": "Shops",
+            "archetype": "Midrange",
+            "player": {
+                "playerID": "3",
+                "playerName": "William Pan"
+            },
+            "cards": [
+                {
+                    "cardID": "4",
+                    "name": "Lightning Bolt",
+                    "price": "6"
+                },
+                {
+                    "cardID": "5",
+                    "name": "Ephemerate",
+                    "price": "91"
+                },
+                {
+                    "cardID": "9",
+                    "name": "Ledger Shredder",
+                    "price": "49"
+                },
+                {
+                    "cardID": "3",
+                    "name": "Thoughtsieze",
+                    "price": "27"
+                },
+                {
+                    "cardID": "7",
+                    "name": "Shivan Dragon",
+                    "price": "14"
+                }
+        
+            ]
+        },
+        {
+            "deckID": "4",
+            "deckName": "Convoke",
+            "archetype": "Aggro",
+            "player": {
+                "playerID": "4",
+                "playerName": "Harry Li"
+            },
+            "cards": [
+                {
+                    "cardID": "4",
+                    "name": "Lightning Bolt",
+                    "price": "6"
+                },
+                {
+                    "cardID": "8",
+                    "name": "Sheoldred",
+                    "price": "6"
+                },
+                {
+                    "cardID": "10",
+                    "name": "Opt",
+                    "price": "72"
+                },
+                {
+                    "cardID": "7",
+                    "name": "Shivan Dragon",
+                    "price": "14"
+                },
+                {
+                    "cardID": "2",
+                    "name": "Black Lotus",
+                    "price": "5"
+                }
+        
+            ]
+        }
+    ]
+}

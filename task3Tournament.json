@@ -1,0 +1,82 @@
+{
+    "tournamentID": 1,
+    "tournamentName": "Northeastern Open",
+    "tournamentDate": "2019-01-01",
+    "tournamentLocation": "Boston, MA",
+    "decks": [
+        {
+            "deckID": "1",
+            "deckName": "Storm",
+            "archetype": "Aggro",
+            "player": {
+                "playerID": "1",
+                "playerName": "John Gomez"
+            },
+            "cards": [
+                {
+                    "cardID": "4",
+                    "name": "Lightning Bolt",
+                    "price": "6"
+                },
+                {
+                    "cardID": "2",
+                    "name": "Black Lotus",
+                    "price": "5"
+                },
+                {
+                    "cardID": "6",
+                    "name": "Serra Angel",
+                    "price": "49"
+                },
+                {
+                    "cardID": "10",
+                    "name": "Opt",
+                    "price": "72"
+                },
+                {
+                    "cardID": "7",
+                    "name": "Shivan Dragon",
+                    "price": "14"
+                }
+        
+            ]
+        },
+        {
+            "deckID": "2",
+            "deckName": "Pheonix",
+            "archetype": "Control",
+            "player": {
+                "playerID": "2",
+                "playerName": "Joel Brook"
+            },
+            "cards": [
+                {
+                    "cardID": "4",
+                    "name": "Lightning Bolt",
+                    "price": "6"
+                },
+                {
+                    "cardID": "8",
+                    "name": "Sheoldred",
+                    "price": "6"
+                },
+                {
+                    "cardID": "3",
+                    "name": "Thoughtsieze",
+                    "price": "27"
+                },
+                {
+                    "cardID": "10",
+                    "name": "Opt",
+                    "price": "72"
+                },
+                {
+                    "cardID": "9",
+                    "name": "Ledger Shredder",
+                    "price": "49"
+                }
+        
+            ]
+        }
+    ]
+}
